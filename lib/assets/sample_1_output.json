@@ -1,0 +1,38 @@
+[
+  {
+    "Title__c": "Protection of legal rights of Syrian refugees and vulnerable members of the Jordanian host community",
+    "Expenditure_Eligibility_Start_Date__c": "2018-01-01",
+    "Expenditure_Eligibility_End_Date__c": "2019-01-01",
+    "NRC_Main_Project_Code__c": "JOFM1619-Test",
+    "NRC_Frame_Project_Code__c": null,
+    "Agresso_Donor_ID__c": "123456789",
+    "Donor_Currency__c": "USD",
+    "Country_Code__c": "JO",
+    "Agresso_Project_Cycle__c": "1",
+    "Overhead__c": "9",
+    "Total_Budget_Donor_Currency__c": 1000000.0,
+    "Total_Budget_NOK__c": 2000000.0,
+    "NOK_to_USD_Exchange__c": 0.111,
+    "Donor_Currency_to_NOK_Exchange__c": 0.222,
+    "Name": "JOFM1619-Test",
+    "New_Donor__c": true
+  },
+  {
+    "Title__c": "Innovation Norway - Digital payments solutions for humanitarian response",
+    "Expenditure_Eligibility_Start_Date__c": "2017-12-31",
+    "Expenditure_Eligibility_End_Date__c": "2018-05-28",
+    "NRC_Main_Project_Code__c": "NOFY1730-Test",
+    "NRC_Frame_Project_Code__c": null,
+    "Agresso_Donor_ID__c": "15009",
+    "Donor_Currency__c": "NOK",
+    "Country_Code__c": "6",
+    "Agresso_Project_Cycle__c": "5",
+    "Overhead__c": "7",
+    "Total_Budget_Donor_Currency__c": 1470000.0,
+    "Total_Budget_NOK__c": 1470000.0,
+    "NOK_to_USD_Exchange__c": 0.0,
+    "Donor_Currency_to_NOK_Exchange__c": 0.0,
+    "Name": "NOFY1730-Test",
+    "New_Donor__c": true
+  }
+]
